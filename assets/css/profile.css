@@ -1,0 +1,16 @@
+
+figure
+{
+    margin:20px;
+}
+figure img 
+{
+    display:inline-block;
+    border:1px solid white;
+    border-radius:50%;
+}
+figcaption
+{
+    margin:10px 40px;
+}
+
